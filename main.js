@@ -1,8 +1,39 @@
-const map = L.map('map').setView([22.56602010000006, 88.36565320000005], 13);
+const map = L.map('map').setView([22.515562500000044, 88.35596079900006], 12);
 
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+var OSM = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors / Coded by <a href="https://www.linkedin.com/in/subhajitsau/"> Subhajit Sau &#128526</a>'
 }).addTo(map);
+
+var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors / Coded by <a href="https://www.linkedin.com/in/subhajitsau/"> Subhajit Sau &#128526</a>',
+    subdomains: 'abcd',
+        maxZoom: 19
+    });
+
+// Google Map Layer
+
+var googleStreets = L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',{
+    maxZoom: 20,
+    subdomains:['mt0','mt1','mt2','mt3']
+ });
+
+
+ // Satelite Layer
+var googleSat = L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{
+   maxZoom: 20,
+   subdomains:['mt0','mt1','mt2','mt3']
+ });
+
+
+
+var baseMaps = {
+    "Open Street" : OSM,
+    "Satellite": googleSat,
+    "Google Streets": googleStreets,
+    "DarkBg":CartoDB_DarkMatter
+}
+
+L.control.layers(baseMaps).addTo(map)
 
 function generateList(){
     const ul = document.querySelector(".List");

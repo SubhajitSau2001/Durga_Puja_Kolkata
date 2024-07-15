@@ -319,6 +319,310 @@ const pujaLisst = [
           0
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "64 Pally Durga Pujo",
+        "Address": "28C, Satish Mukherjee Rd,Manoharpukur, KalighatKolkata, West Bengal 700026",
+        "image" : "https://d27k84lshqlq2w.cloudfront.net/assets/images/candidates/October2023/1697467132IMG_20231015_200943.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.34757180000008,
+          22.52053870000003,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mudiali Club",
+        "Address": "37, SR Das RdMudiali, Kalighat,Kolkata, West Bengal 700026",
+        "image" : "http://www.365pujo.com/durgapuja2016/wp-content/uploads/2016/10/mudiali-club-4.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.34645070000005,
+          22.510186400000066,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ballygunge Cultural Association",
+        "Address": "57, Jatindas Rd Hemanta Mukherjee Sarani, lake Terrace, Ballygunge ,Kolkata, West Bengal 700029",
+        "image" : "https://images.jdmagicbox.com/comp/kolkata/a9/033pxx33.xx33.180411162649.m6a9/catalogue/ballygunge-cultural-association-sarat-bose-road-kolkata-associations-gzomij3z1c.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35574350000007,
+          22.515922700000033,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hindusthan Club",
+        "Address": "37/B, Hindustan Rd Dover Terrace, Ballygunge ,Kolkata, West Bengal 700019",
+        "image" : "https://www.storypick.com/wp-content/uploads/2022/10/pujo1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36090980000006,
+          22.520157100000063,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Singhi Park",
+        "Address": "Dover Terrace, Ballygunge ,Kolkata, West Bengal 700019",
+        "image": "https://femina.wwmindia.com/photogallery/2016/Oct/soham_kar_singhi_park_south_1475849526.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36415030000006,
+          22.522018,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "66 Pally Durga Puja Pandal",
+        "Address": "G89V+734,Rash Behari Ave Anami Sangha, Kalighat,Kolkata, West Bengal 700026",
+        "image" : "https://static.vecteezy.com/system/resources/previews/017/146/788/non_2x/1st-october-2022-kolkata-west-bengal-india-interior-of-66-pally-durga-puja-pandel-free-photo.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.34270290000006,
+          22.51813720000007,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tridhara Sammilani",
+        "Address": "Near Deshapriya Park,Satyendranath Mazumder Sarani,Dover Terrace Kolkata, West Bengal 700025",
+        "image": "https://imgmediagumlet.lbb.in/media/2023/10/6523b7c1e4b2194c46116a22_1696839617681.jpg?fm=webp&w=750&h=500&dpr=2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35543470000005,
+          22.519398300000034,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sovabazar Rajbari",
+        "Address": "Raja Nabakrishna St,Raja Nabakrishna Street, Sovabazar Kolkata, West Bengal 700004",
+        "image": "https://assets.telegraphindia.com/telegraph/2021/Sep/1632774484_sovabazar3-1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36728410000006,
+          22.596317,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hatibagan Sarbojanin Durgotsav",
+        "Address": "134, Sri Aurobinda Sarani,Principal Khudiram Bose Rd ,Hati Bagan,Kolkata, West Bengal 700006",
+        "image":"https://d27k84lshqlq2w.cloudfront.net/assets/images/candidates/October2023/16975527171.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.37200040000005,
+          22.594386300000053,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kashi Bose Lane Durga Puja Samity",
+        "Address": "5/1, Kashi Bose Ln,Manicktala, Darjipara,Kolkata, West Bengal 700006",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kashi_Bose_Lane_Durga_Puja_2023_in_Kolkata_20.jpg/1200px-Kashi_Bose_Lane_Durga_Puja_2023_in_Kolkata_20.jpg?20231030105237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36891740000004,
+          22.590897900000073,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dum Dum Park Bharat Chakra",
+        "Address": "Tank No. 2,Dum Dum Park,South Dumdum, West Bengal 700055",
+        "image": "https://files.yappe.in/place/full/dum-dum-park-bharat-chakra-5607216.webp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.41435050000007,
+          22.61026,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tala Prattoy Durga Puja Art",
+        "Address": "Tara Sankar Sarani,Tala,Kolkata, West Bengal 700037",
+        "image": "https://d27k84lshqlq2w.cloudfront.net/assets/images/candidates/October2023/UqtRM0yws011RjIwFNUE.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.382574,
+          22.608931900000073,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tala park",
+        "Address": "J95M+57Q,Tala Park Circus Maidan,Anath Nath Deb Ln, Tala,Kolkata, West Bengal 700037",
+        "image": "https://assets.telegraphindia.com/telegraph/2022/Oct/1665354592_new-project-2022-10-10t025147-818.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.38323350000007,
+          22.60796750000003,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chorebagan Sarbojonin",
+        "Address": "Ram Mandir,127 F, Muktaram Babu St,Simla, Machuabazar,Kolkata, West Bengal 700007",
+        "image": "https://d27k84lshqlq2w.cloudfront.net/assets/images/candidates/October2023/muF3gnYsDwT9ERAsnkj8.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36306630000007,
+          22.583437700000047,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Behala Nutan Dal",
+        "Address": "16, Sashi Bhushan Mukerjee Rd,Auddy Bagan Basti, Behala,Kolkata, West Bengal 700034",
+        "image": "https://thetheorist.in/wp-content/uploads/2022/10/Behala-Natun-Dal-1024x576.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.32028650000007,
+          22.500391,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Behala Nutan Sangha",
+        "Address": "19B,Gholeshapur, Behala,Kolkata, West Bengal 700034",
+        "image": "https://bengali.indianexpress.com/wp-content/uploads/2023/10/cats-116.jpg?w=1024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.31933920000006,
+          22.50198770000003,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chetla Agrani Club",
+        "Address": "14, Peary Mohan Roy Rd,Chetla,Kolkata, West Bengal 700027",
+        "image":"https://d27k84lshqlq2w.cloudfront.net/assets/images/candidates/October2023/gH2807FSUO8Cv2C4ZMjn.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.336837,
+          22.516373500000043,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naktala Udayan Sangha club",
+        "Address": "Naktala, Garia,Kolkata, West Bengal 700047",
+        "image": " https://www.pujo2pujo.com/wp-content/uploads/2022/06/naktala.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36679110000006,
+          22.474701200000027,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Babubagan Club",
+        "Address": "19 A, Babu Bagan Ln,Dhakuria, Babu Bagan, Selimpur,Kolkata, West Bengal 700031",
+        "image": "https://files.prokerala.com/news/photos/imgs/1024/durga-idol-at-babubagan-club-durga-puja-pandal-in-463632.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36899140000008,
+          22.507916200000068,
+          0
+        ]
+      }
     }
   ]
 
